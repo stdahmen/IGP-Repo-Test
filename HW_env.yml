@@ -1,0 +1,4 @@
+name: HW_env
+channels:
+  - defaults
+prefix: C:\Users\dahme\anaconda3\envs\HW_env
